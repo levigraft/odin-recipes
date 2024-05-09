@@ -1,0 +1,1 @@
+This project requires building an HTML website about recipes. Upon completion, I will have demonstrated basic knowledge of working HTML, such as elements, tags, attribultes, boilerplate. 
